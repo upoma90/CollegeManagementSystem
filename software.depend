@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718172056 source:c:\users\sazzad\documents\programupoma\software\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<fstream>
+
